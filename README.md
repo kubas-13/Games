@@ -122,7 +122,7 @@
 
   <nav>
     <div class="nav-left">
-      <a class="name" href="PortFolio.html"><strong>Mantas Krutulis</strong></a>
+      <a class="name" href="https://kubas-13.github.io/Portfolio/"><strong>Mantas Krutulis</strong></a>
       <h2>Game Developer</h2>
     </div>
     <div class="nav-right">
@@ -140,19 +140,19 @@
   <section class="games-section">
     <div class="game-card">
       <a href="https://cubeindustry.itch.io/pour" target="_blank">
-        <img src="Pour.png" alt="Pour Game">
+        <img src="Photos/Pour.png" alt="Pour Game">
         <span><strong>Pour</strong></span>
       </a>
     </div>
     <div class="game-card">
       <a href="https://cubeiacon.itch.io/killstinct" target="_blank">
-        <img src="Killstict.png" alt="Killstict Game">
+        <img src="Photos/Killstict.png" alt="Killstict Game">
         <span><strong>Killstict</strong></span>
       </a>
     </div>
     <div class="game-card">
       <a href="https://cubeiacon.itch.io/homework" target="_blank">
-        <img src="Homework.png" alt="Homework Game">
+        <img src="Photos/Homework.png" alt="Homework Game">
         <span><strong>Homework</strong></span>
       </a>
     </div>
