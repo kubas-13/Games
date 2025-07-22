@@ -129,7 +129,7 @@
       <a href="https://kubas-13.github.io/Portfolio/">HOME</a>
       <a href="https://kubas-13.github.io/Demo/">DEMOS</a>
       <a href="https://kubas-13.github.io/Games/">GAMES</a>
-      <a href="[Contact.html]">CONTACT</a>
+      <a href="https://kubas-13.github.io/Contact/">CONTACT</a>
     </div>
   </nav>
 
